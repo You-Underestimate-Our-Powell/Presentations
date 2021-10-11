@@ -1,0 +1,8 @@
+Hardware:
+- MOSFET choice seems overkill
+- Justify circuitry from solar car (can't just say we know it works)
+- Inductor might be overly chonk
+- Maybe justify testpoint selections
+Softare:
+- Read up on libraries we are using (rpi interrupts, rpi camera, aws s3)
+- Be able to explain how PREEMPT_RT kernel patch works
